@@ -10,184 +10,101 @@ output:
     css: "style.css"
 ---
 
-## Pendahuluan
+## Latar Belakang {#latar-belakang}
 
-<p style="text-align: center"><span class="fragment">... kesehatan,</span> <span class="fragment">produktivitas,</span> <span class="fragment">pembangunan ...</span></p>
+<div style="padding-top: 48px;">
+Perkembangan teknologi telah mengubah cara kita [mengumpulkan](#latar-belakang), [menyimpan](#latar-belakang), dan [menggunakan data kesehatan](#latar-belakang)
+</div>
 
 . . .
 
-<p style="text-align: center">Era globalisasi dan kemajuan teknologi</p>
+Sumber data dgital menyediakan informasi berharga untuk memahami kondisi kesehatan individu dan populasi secara lebih mendalam.
 
-<p style="text-align: center"></p>
+## Definisi Sumber Data Digital Health {#definisi}
 
-## Dasar Hukum
-
-<div style="text-align: left">
-
-1. UU 11 Tahun 2008 tentang Informasi dan Transaksi Elektronik
-1. PP 82 Tahun 2012 tentang Penyelenggaraan Sistem dan Transaksi Elektronik
-1. UU 72 Tahun 2012 tentang Sistem Kesehatan Nasional
-1. PP 46 Tahun 2014 tentang Sistem Informasi Kesehatan
-1. Permenkes 92 Tahun 2014 tentang Penyelenggaraan Komunikasi Data dalam Sistem Informasi Kesehatan Terintegrasi
-1. UU 17 Tahun 2023 tentang Kesehatan
+<div style="padding-top: 32px;">
+Sumber dat digital health mencakup berbagai jenis informasi medis yang menghasilkan dan disimpan secara elektronik
 </div>
-
-
-## Sistem Informasi Kesehatan {#sik1 .presentx}
-
-<p style="text-align:center">[Berdasarkan UU 17 Tahun 2023 tentang Kesehatan](#sik1)</p>
-
-## Pengertian SIK {#konsep-dasar-sik}
 
 . . .
 
-<div class="main-p">
-<span class="fragment">[Sistem Informasi Kesehatan](#konsep-dasar),</span> <span class="fragment">  sistem yang
-mengintegrasikan berbagai tahapan pemrosesan, pelaporan, dan penggunaan informasi yang diperlukan untuk meningkatkan efektivitas dan efisiensi penyelenggaraan Kesehatan serta mengarahkan tindakan atau keputusan yang berguna dalam mendukung pembangunan Kesehatan [@uu-ri-17-2023](#konsep-dasar).</span>
+Termasuk Rekam Medis Elektronik, Aplikasi Kesehatan, Sensor Kesehatan, dan Perangkat terhubung lainnya
+
+## Sistem Informasi Kesehatan {#sumber-data}
+
+<div style="text-align: left; padding-top: 48px;">
+
+1. Electronic Health Records (EHR)
+1. Health Apps
+1. Health Sensors
+1. Internet of Things
+1. Werable Devices
+1. Telemedicine Platforms
 
 </div>
+
+## Manfaat Penggunaan Sumber Data
+
+. . .
+
+<div style="padding-top: 48px;">
+Memungkinkan pemantauan kesehatan yang lebih akurat dan real-time
+</div>
+
+. . .
+
+Membantu dalam diagnosis penyakit dan manajemen kondisi kronis
 
 . . . 
 
-<div class="main-p">
-<span class="fragment">[Sistem Informasi Kesehatan Nasional (SIKNAS)](#konsep-dasar), </span><span class="fragment">Sistem Informasi Kesehatan yang dikelola oleh kementerian yang menyelenggarakan urusan pemerintahan di bidang kesehatan yang mengintegrasikan dan menstandarisasi seluruh Sistem Informasi Kesehatan dalam mendukung pembangunan Kesehatan [@uu-ri-17-2023](#konsep-dasar)</span>
-
-</div>
-
-
-## Sistem Informasi Kesehatan {#sik}
+Mendukung pengambilan keputusan klinis yang lebih baik
 
 . . .
 
-Sistem Informasi Kesehatan dibuat guna melakukan penyelenggaraan Upaya Kesehatan yang efektif dan efisien
+Menghasilkan data untuk penelitian dan analisis kesehatan kependudukan
+
+## Tantangan dan Masalah {#tantangan-masalah}
 
 . . .
 
-<span class="fragment">SIK diselenggarakan oleh </span><span class="fragment">[Pemerintah Pusat](#sik), </span><span class="fragment">[Pemerintah Daerah](#sik), </span><span class="fragment">[Fasilitas Pelayanan Kesehatan](#sik), dan </span><span class="fragment">[masyarakat (baik perseorangan, maupun kelompok)](#sik)</span>
-
-. . .
-
-Penyelenggaraan tersebut harus terintegrasi dengan SIKNAS
-
-
-## Tata Kelola Sistem Informasi Kesehatan {#tata-kelola}
-
-. . .
-
-Penyelenggara Sistem Informasi Kesehatan melaksanakan tata kelola Sistem Informasi Kesehatan yang mendukung pelayanan di bidang Kesehatan.
-
-. . .
-
-Tata Kelola tersebut merupakan rangkaian kegiatan untuk menjamin mutu dan keandalan sistem
-
-. . .
-
-<span class="fragment">Penyelenggaran SIK wajib melakukan pemrosesan datan dan informasi Kesehatan di wilayah Indonesia, </span><span class="fragment">[juga di luar wilayah indonesia](#tata-kelola)</span>
-
-
-## Lanjutan... {#tata-kelola-2}
-
-. . .
-
-<span class="fragment">Penyelenggara SIK wajib memastikan keandalan SIK yang meliputi </span><span class="fragment">[ketersediaan](#tata-kelola-2), </span><span class="fragment">[keamanan](#tata-kelola-2), </span><span class="fragment">[pemeliharaan](#tata-kelola-2), dan </span><span class="fragment">[integrasi](#tata-kelola-2)</span>
-
-. . .
-
-<span class="fragment">Hal tersebut dilaksanakan dengan cara </span><span class="fragment">[menguji kelaikan sistem](#tata-kelola-2), </span><span class="fragment">[menjaga kerahasiaan data](#tata-kelola-2), </span><span class="fragment">[menentukan kebijakan hak akses data](#tata-kelola-2), </span><span class="fragment">[memiliki sertifikasi keandalan sistem](#tata-kelola-2), dan </span><span class="fragment">[melakukan audit secara berkala](#tata-kelola-2)
-
-. . . 
-
-Penyelenggara Sistem Informasi Kesehatan wajib melaksanakan pemrosesan data dan informasi Kesehatan yang meliputi <span class="fragment">[perencanaan](#tata-kelola-2), <span class="fragment">[pengumpulan](#tata-kelola-2), <span class="fragment">[penyimpanan](#tata-kelola-2), <span class="fragment">[pemeriksaan](#tata-kelola-2), <span class="fragment">[transfer](#tata-kelola-2), <span class="fragment">[pemanfaatan](#tata-kelola-2), dan <span class="fragment">[pemusnahan](#tata-kelola-2)
-
-## Lanjutan... {#tata-kelola-3}
-
-. . . 
-
-Sistem Informasi Kesehatan memuat data dan informasi
-yang bersumber dari:
-
-<div style="font-size: 0.85em">
-
-1. Fasilitas Pelayanan Kesehatan;
-1. instansi Pemerintah Pusat dan Pemerintah Daerah;
-1. badan/lembaga yang menyelenggarakan program jaminan sosial nasional;
-1. badan/lembaga lain yang menyelenggarakan kegiatan di bidang Kesehatan;
-1. kegiatan masyarakat selain Fasilitas Pelayanan Kesehatan;
-1. pelaporan mandiri perseorangan; dan
-1. sumber lainnya.
-
-</div>
-. . .
-
-## Cetak Biru Strategi Transformasi Digital Kesehatan 2024 {#cetak-biru .presentx}
-
-<p style="text-align:center">[Kementerian Kesehatan Republik Indonesia](#cetak-biru) @cetak-biru</p>
-
-## 6 Prinsip Utama Pembangan Platform IHS {#prinsip-ihs}
-
-Platform [Indonesia Health Service](#prinsip-ihs) (IHS) merupakan sebuah platform ekosistem digital kesehatan yang menyediakan konektivitas
-data, analisis, dan layanan untuk mendukung dan mengintegrasikan berbagai aplikasi kesehatan di Indonesia
-
-
-<div style="font-size: 0.85em">
-
-1. Platform Berbasis Layanan
-1. Standardisasi Arsitektur dan Spesifikasi
-1. Kolaborasi Ekosistem Pelaku Industri Kesehatan
-1. Open API Berbasis *Microservices*
-1. Kepatuhan melalui Keterpaduan
-1. Manfaat Imbal Balik melalui Kemudahan Layanan dan Informasi Terintegrasi
-
-</div>
-
-
-## Tantangan Kesehatan Digital Indonesia
-
-<div style="font-size: 0.85em">
-
-1. Jutaan data dan ratusan aplikasi<br>
-Dibutuhkan platform data terintegrasi untuk bisa mendukung internal Fasyankes dalam memaksimalkan pelayanan rumah sakit, terutama untuk memprediksi penyakit pasien.
-
-2. Data terfragmentasi<br>
-Berbagai macam sistem informasi yang berakibat pada data yang tidak terstandardisasi.
-
-3. Keterbatasan regulasi<br>
-Sektor kesehatan Indonesia mengalami keterbatasan untuk proteksi data, standardisasi data, serta hak dan privasi pasien.
-
-</div>
-
-## Transformasi Teknologi Kesehatan {#prioritas-1}
-
-<div style="font-size: 0.85em; text-align:left">
-
-1. Prioritas Transformasi Teknologi Kesehatan
-
+<div style="padding-top: 48px;">
+Keamanan dan privasi data pasien
 </div>
 
 . . .
 
-<p style="text-align: center"></p>
+Standarisasi dan interoperabilitas sistem
 
-## Lanjutan... {#proritas-2}
+. . .
 
-<div style="font-size: 0.85em; text-align:left">
-1. [Prioritas Transformasi Teknologi Kesehatan](#prioritas-2)<br>
-  - **Tahun 2021**: Kegiatan Integrasi & Pengembangan Sistem Data Kesehatan berfokus pada Desain arsitektur tata kelola satu data kesehatan berbasis individu 
-  - **Tahun 2022**: Pengembangan sistem Big Data yang sudah terintegrasi
-  - **Tahun 2023**: Implementasi Sistem Analisis Kesehatan
-  - **Tahun 2024**: Perluasan Implementasi Transformasi Digital Kesehatan Indonesia
-2. [Integrasi dan Pengembangan Data Kesehatan](#prioritas-2)
-3. [Integrasi dan Pengembangan Aplikasi Kesehatan](#prioritas-2)
-4. [Penguatan Ekosistem Teknologi Kesehatan](#prioritas-2)
-5. [Tata Kelola Organisasi Transformasi Digital Kementerian Kesehatan RI](#prioritas-2)
+Kesenjangan akses dan penggunaan teknologi
 
+## Tren dan perkembangan terkini {#tren}
+
+. . .
+
+<div style="padding-top: 32px; text-align: left; font-size: 0.85em;">
+Perkembangan teknologi AI dan machine learning dalam analisis data kesehatan</div>
+
+. . .
+
+Peningkatan penggunaan telemedicine dan konsultasi jarak jauh
+
+. . .
+
+Inovasi dalam perangkat-perangkat untuk pemantauan kesehatan pribadi
+
+## Kesimpulan {#kesimpulan}
+
+. . .
+
+<div style="padding-top: 48px;">
+Sumber data digital memiliki potensi besar untuk meningkatkan kualitas perawatan kesehatan dan kependudukan
 </div>
 
-## Kesimpulan
+. . .
 
-Pentingnya SIKNAS dalam meningkatkan pelayanan kesehatan, pengambilan keputusan, dan pengelolaan data kesehatan secara efektif.
-
-Harapan untuk masa depan: peningkatan infrastruktur, pembaruan teknologi, dan pengembangan sumber daya manusia.
+Dengan mengatasi tantangan dan memanfaatkan tren terkini, kita dapat membangun masa depan kesehatan yang lebih baik
 
 ## REFERENCES 
 
