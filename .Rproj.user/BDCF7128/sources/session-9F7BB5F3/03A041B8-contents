@@ -1,0 +1,15 @@
+@Manual{cetak-biru,
+  title = {Cetak Biru Strategi Transformasi Digital Kesehatan 2024},
+  author = {{Kemenkes RI}, {USAID}},
+  organization = {Kemenkes RI},
+  address = {Jakarta, Indonesia},
+  year = {2021},
+}
+
+@Manual{uu-ri-17-2023,
+  title = {Undang-undang Republik Indonesia Nomor 17 Tahun 2023 tentang Kesehatan},
+  author = {{Presden Republik Indonesia}},
+  organization = {Republik Indonesia},
+  address = {Jakarta, Indonesia},
+  year = {2023},
+}

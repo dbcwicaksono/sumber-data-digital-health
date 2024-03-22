@@ -1,0 +1,37 @@
+h1.title {
+  padding-top: 280px;
+  line-height: 90px;
+}
+
+h2.author {
+  font-size: 24px;
+  line-height: 90px;
+}
+
+h2.date {
+  font-size: 11px;
+  line-height: 90px;
+}
+
+.reveal section p {
+  font-size: 0.85em;
+  vertical-align: top;
+  text-align: left;
+}
+
+.my-references {
+  font-size: 7px;
+  text-align: left;
+  padding-bottom: 10px;
+  position: absolute;
+}
+
+.main-p {
+  text-align:left; 
+  font-size: 0.7em;
+}
+
+.presentx h2 {
+  padding-top:280px; 
+  font-size: 2em;
+}
